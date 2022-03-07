@@ -12,7 +12,7 @@ em construçao
 
 Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
 
-Vagas disponíveis em [https://github.com/vuejs-br/vagas/issues](https://github.com/react.js-br-vagas/vagas/issues)
+Vagas disponíveis em [https://github.com/DevCleverton/react.js-br-vagas/issues](https://github.com/DevCleverton/react.js-br-vagas/issues)
 
 ### Cadastrando uma vaga
 
